@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Trabajos
 ---
 
 Another sample category page.
