@@ -5,11 +5,11 @@ categories:
   - Trabajos
 excerpt_separator:  <!--more-->
 ---
-# Larry Katula
+# Larry Hennhoff
 
-![Imagen aleatoria](https://s1.eestatic.com/2016/06/20/cultura/adolf_hitler-nazismo-subastas_133999538_7517230_1706x1280.jpg)
+![Imagen aleatoria](https://i.ytimg.com/vi/yk1J-yg0f_o/maxresdefault.jpg)
 
-Larry Katula es un aventurero apasionado por explorar nuevos horizontes y desafiar límites. Nacido en un pequeño pueblo en algún lugar del mundo, siempre ha tenido una sed insaciable de conocimiento y una curiosidad desbordante.
+Larry Hennhoff es un aventurero apasionado por explorar nuevos horizontes y desafiar límites. Nacido en un pequeño pueblo en algún lugar del mundo, siempre ha tenido una sed insaciable de conocimiento y una curiosidad desbordante.
 
 Desde temprana edad, Larry se ha sentido fascinado por los libros y las historias de valientes exploradores que conquistaban tierras desconocidas. Esta pasión lo ha llevado a embarcarse en numerosas expediciones por diferentes continentes, sumergiéndose en diversas culturas y aprendiendo de sus tradiciones únicas.
 
@@ -21,4 +21,4 @@ La trayectoria de Larry como explorador y fotógrafo le ha permitido compartir s
 
 Siempre está en busca de nuevos desafíos y oportunidades para seguir creciendo como individuo y como viajero. Si te encuentras con él en alguna de tus travesías, no dudes en acercarte y compartir tus historias. ¡La vida está llena de maravillas por descubrir!
 
-Puedes seguir los viajes de Larry y ver más fotografías en su [sitio web](https://www.larrykatula.com).
+Puedes seguir los viajes de Larry y ver más fotografías en su [sitio web](https://www.larryHennhoff.com).
