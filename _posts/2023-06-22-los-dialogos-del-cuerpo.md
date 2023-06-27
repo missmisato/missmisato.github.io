@@ -5,6 +5,9 @@ categories:
   - Trabajos
 excerpt_separator:  <!--more-->
 ---
+![Imagen aleatoria](https://http2.mlstatic.com/D_NQ_NP_645202-MLA49155801887_022022-O.webp)
+
+
 
 Cuando nos plantearon los tres libros, iba a escoger "El hombre en busca de sentido" de Viktor Frankl. Antes ya había leído un fragmento de este libro para Lenguaje, en la educacion básica. También había empezado a leerlo en la educación media por gusto. Conocía el libro y sabía que podía hacer una buena presentación de este. Pero después, al escuchar a la profesora decir que no quería que sea un libro que hayamos leído antes, tuve que descartar esa opción. Me quedaban dos opciones, Los patitos feos de Boris Cyrulnik o Los dialogos del cuerpo de Adriana Schnake. Al principio ninguno me llamaba la atención, de hecho, el de la psiquiatra parecía entusiasmarme mucho menos al leer el sub-titulo "Un enfoque holístico de la salud y la enfermedad" Sentía que no iba a tener un contenido apropiado a lo que buscaba y era muy esceptica a los conocimientos que podía sustraer de las páginas. Al sentirme de esta forma, tan cerrada a la idea sin haber visto aún nada de lo que este libro me podía ofrecer, tomé la decisión de leerlo, para quitarme los prejuicios que tanto tenía hacía este.
 

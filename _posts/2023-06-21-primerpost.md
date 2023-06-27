@@ -6,7 +6,7 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 
-![Imagen aleatoria](https://i.ytimg.com/vi/yk1J-yg0f_o/maxresdefault.jpg)
+![Imagen aleatoria](https://http2.mlstatic.com/D_NQ_NP_645202-MLA49155801887_022022-O.webp)
 
 Larry Hennhoff es un aventurero apasionado por explorar nuevos horizontes y desafiar límites. Nacido en un pequeño pueblo en algún lugar del mundo, siempre ha tenido una sed insaciable de conocimiento y una curiosidad desbordante.
 
