@@ -5,7 +5,6 @@ categories:
   - Trabajos
 excerpt_separator:  <!--more-->
 ---
-# Larry Hennhoff
 
 ![Imagen aleatoria](https://i.ytimg.com/vi/yk1J-yg0f_o/maxresdefault.jpg)
 
