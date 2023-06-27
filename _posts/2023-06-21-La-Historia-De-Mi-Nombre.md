@@ -6,8 +6,6 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 
-# *La historia de mi nombre* #
-
 No hay ninguna persona que pueda narrar mejor el origen del *por qué* me llamo como me llamo, que mi increíble madre Claudia.
 
 <p class="message">
