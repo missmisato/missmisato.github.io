@@ -4,4 +4,4 @@ title: Trabajos
 category: Trabajos
 ---
 
-Another sample category page.
+Listado de trabajos relacionados a la asignatura.
