@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Desarrollo Personal
 tagline:          'Bitacora de Trabajo'
-description:      'Bitacora de trabajo para la asignatura de Desarrollo Perosnal'
+description:      'Bitacora de trabajo para la asignatura de Desarrollo Personal. Vania Neira.'
 url:              https://missmisato.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
